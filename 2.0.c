@@ -1,4 +1,4 @@
-/* 1.10 Write a program to multiply two matrices. */
+/* 2.0 Write a program to multiply two matrices. */
 
 #include <stdio.h>
 
