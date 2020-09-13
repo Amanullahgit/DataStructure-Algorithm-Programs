@@ -66,7 +66,7 @@ int main()
                 
         }
     }
-    while(choice!=4);
+    while(choice!=7);
     return 0;
 }
 void push()
